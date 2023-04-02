@@ -1,10 +1,5 @@
 import java.time.LocalDate;
-import FileWork.FilehandlerOS;
-import FileWork.FilehandlerTXT;
-import Group.FamilyTree;
-import Group.Gender;
-import Group.Group;
-import Group.Person;
+
 
 public class Main {
     public static void main(String[] args) {

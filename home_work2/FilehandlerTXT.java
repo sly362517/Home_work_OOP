@@ -1,9 +1,7 @@
-package FileWork;
 
 import java.io.FileWriter;
 import java.io.IOException;
 
-import Group.Group;
 
 public class FilehandlerTXT extends Filehahdler {
 

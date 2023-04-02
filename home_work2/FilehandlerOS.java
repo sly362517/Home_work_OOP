@@ -1,11 +1,10 @@
-package FileWork;
+
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
-import Group.Group;
-import Group.Person;
+
 
 public class FilehandlerOS extends Filehahdler{
  

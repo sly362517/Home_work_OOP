@@ -1,8 +1,6 @@
-package FileWork;
 
 import java.io.FileNotFoundException;
-import Group.Group;
-import Group.Person;
+
 
 public interface Writeable{
     public static void SaveToFile(Group group, String filename) throws FileNotFoundException{};   
